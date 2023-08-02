@@ -18,7 +18,7 @@ def fusionner_images(dossier_source, dossier_destination):
         if os.path.isdir(os.path.join(dossier_source, sous_dossier)):
             for image in os.listdir(os.path.join(dossier_source, sous_dossier)):
                 # Vérifier si le nom du fichier correspond au format "Image_<numéro>.jpg"
-                if image.startswith('Image_') and image.endswith('.jpg'):
+                if image.startswith('Image_') and (image.endswith('.jpg') or image.endswith('.JPG') or image.endswith('.jpeg') or image.endswith('.JPEG') or image.endswith('.png') or image.endswith('.PNG') ):
                     nouveau_nom = f'Image_{numero_image}.jpg'
                     chemin_source = os.path.join(dossier_source, sous_dossier, image)
                     chemin_destination = os.path.join(dossier_destination, nouveau_nom)
