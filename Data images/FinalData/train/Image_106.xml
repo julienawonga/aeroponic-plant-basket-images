@@ -1,0 +1,38 @@
+<annotation>
+	<folder>MergeOfBasket</folder>
+	<filename>Image_106.jpg</filename>
+	<path>C:\Users\Julien\Downloads\Task\Data images\MergeOfBasket\Image_106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>256</ymin>
+			<xmax>400</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>basket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>192</ymin>
+			<xmax>625</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>
