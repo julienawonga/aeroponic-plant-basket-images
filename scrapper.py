@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# pip install bing-image-downloader
-
-# pip install simple-image-download
-
 import os
 from bing_image_downloader import downloader
 import re
