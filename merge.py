@@ -2,10 +2,10 @@ import os
 import shutil
 
 # Chemin du dossier source contenant les 4 sous-dossiers
-dossier_source = r'C:\Users\Julien\Downloads\Task\Data images\Basket'
+dossier_source = r''
 
 # Chemin du dossier de destination où vous voulez fusionner les images
-dossier_destination = r'C:\Users\Julien\Downloads\Task\Data images\MergeOfBasket'
+dossier_destination = r''
 
 # Vérification et création du dossier de destination s'il n'existe pas déjà
 if not os.path.exists(dossier_destination):
