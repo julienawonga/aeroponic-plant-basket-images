@@ -39,7 +39,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**: If you haven't already, clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/julienawonga/your-repository.git
+    git clone https://github.com/julienawonga/aeroponic-plant-basket-images.git
     ```
 
 
@@ -124,7 +124,7 @@ Contributions to this project are welcomed and encouraged! If you'd like to cont
 2. **Clone the Forked Repository**: Clone your forked repository to your local machine.
 
     ```bash
-    git clone https://github.com/julienawonga/your-forked-repo.git
+    git clone https://github.com/julienawonga/aeroponic-plant-basket-images.git
     ```
 3. **Create a New Branch**: Create a new branch for your contribution work.
 
@@ -182,7 +182,6 @@ You can connect with the author via:
 We would like to express our gratitude to the following individuals and projects for their contributions, inspiration, and support:
 
 - The author of the "bing-image-downloader" library for providing a valuable tool that made image collection easier.
-
 Your contributions and open-source initiatives are greatly appreciated and have played a significant role in the success of this project.
 
 ## Contact
@@ -197,3 +196,5 @@ Feel free to connect or send a message, and we'll get back to you as soon as pos
 ## Sample Images
 
 ![Aeroponic Plant Basket](images/Image_7.png)
+![Aeroponic Plant Basket](images/Image_18.png)
+![Aeroponic Plant Basket](images/Image_26.png)
