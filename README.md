@@ -39,7 +39,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**: If you haven't already, clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/julienawonga/aeroponic-plant-basket-images.git
+    git clone https://github.com/julienawonga/aeroponic-plant-basket-imagess.git
     ```
 
 
