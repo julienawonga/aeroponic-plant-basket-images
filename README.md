@@ -193,3 +193,7 @@ If you have any questions, suggestions, or feedback related to this project, ple
 - LinkedIn: [julienawonga](https://www.linkedin.com/in/julienawonga/)
 
 Feel free to connect or send a message, and we'll get back to you as soon as possible. Your input and inquiries are important to us.
+
+## Sample Images
+
+![Aeroponic Plant Basket](images/Image_7.png)
