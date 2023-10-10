@@ -23,7 +23,7 @@ In this README, you will find essential information on how to get started with t
 
 Let's dive in and explore how to harness the power of Python for collecting aeroponic plant basket images efficiently!
 
-## Technologies Used
+## Technologies Used in 
 
 This project leverages the following technologies:
 
