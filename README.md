@@ -1,4 +1,4 @@
-# Collecting Aeroponic Plant Basket Images with Python 3
+# Collecting Aeroponic Plant Basket Images with Python3
 
 Harvesting the Future: Gathering Aeroponic Plant Basket Imagery with Python
 
